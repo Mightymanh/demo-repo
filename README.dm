@@ -1,3 +1,3 @@
 #Demo
 
-Description
+Description of a funny chicken!
